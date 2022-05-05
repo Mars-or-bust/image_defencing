@@ -1,1 +1,2 @@
-# image_defencing
+COCO is available at "/ocean/datasets/community/COCO"
+
