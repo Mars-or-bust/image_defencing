@@ -20,7 +20,7 @@ python3 train_ADV.py --test_name RED20_ADV_128_3e5_551_dlr1_256 \
 --img_size 256 \
 --lr 3e-5 \
 --dlr 0.1
-> log/slurmOUT_ADV_RED10_64.txt
+> log/slurmOUT_ADV.txt
 
 
 
